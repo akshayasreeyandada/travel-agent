@@ -1,0 +1,8 @@
+{
+  "name": "Voyage Travel Concierge",
+  "description": "Smart custom travel planning platform connected to automated n8n workflow integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
